@@ -1,10 +1,10 @@
 # Microsoft Security Stack
 A collection of Microsoft security tools used for enterprise threat detection, incident response, and security monitoring across endpoints, identities, and cloud environments.
 
-## Objective
+## 🎯 Objective
 To develop practical skills in enterprise security operations by leveraging the Microsoft Security Stack for threat detection, incident response, endpoint protection, and security monitoring across cloud and identity environments.
 
-## Projects
+## 📊 Projects
 
 | Project Title                      | Link      |
 |-----------------------------------------------|----------------------------|
@@ -13,7 +13,7 @@ To develop practical skills in enterprise security operations by leveraging the 
 | Attack Emulation and SOC Investigation Using Microsoft Security Tools         | <a href="https://github.com/justinjudefernandes/Attack-Emulation-and-SOC-Investigation-Using-Microsoft-Security-Tools/">View Project</a>|
 | Microsoft Defender XDR: Phishing-Led Multi-Stage Attack Simulation & End-to-End SOC Investigation        | <a href="https://github.com/justinjudefernandes/Phishing-Led-Multi-Stage-Attack-Simulation-and-End-to-End-SOC-Investigation/blob/main/README.md/">View Project</a>|
 
-## What I Learned... 
+## 🧠 What I Learned... 
 Through this Microsoft Security Stack project, I gained hands-on experience in SOC operations within a Microsoft enterprise environment, working across identity, endpoint, email, and cloud security layers.
 
 In Microsoft Sentinel, I learned log analysis, KQL-based detection, and incident investigation through data correlation. With Microsoft Defender XDR and Defender for Endpoint, I worked on endpoint detection, alert investigation, and understanding attack paths across systems.
@@ -22,7 +22,7 @@ In Microsoft Defender for Office 365, I analyzed phishing attacks by inspecting 
 
 Overall, this project improved my ability to analyze security incidents end-to-end, map threats to the MITRE ATT&CK framework, and think like a SOC analyst using Microsoft security tools.
 
-## Skill Set
+## 🛡️ Skill Set
 - Microsoft Sentinel (SIEM) – Log ingestion, correlation rules, analytics queries, incident management
 - Microsoft Defender XDR – Cross-domain threat detection and response
 - Microsoft Defender for Endpoint – Endpoint detection, investigation, and response (EDR)
