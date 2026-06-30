@@ -13,9 +13,9 @@ To develop practical skills in enterprise security operations by leveraging the 
 | Attack Emulation and SOC Investigation Using Microsoft Security Tools         | <a href="https://github.com/justinjudefernandes/Attack-Emulation-and-SOC-Investigation-Using-Microsoft-Security-Tools/">View Project</a>|
 | Microsoft Defender XDR: Phishing-Led Multi-Stage Attack Simulation & End-to-End SOC Investigation        | <a href="https://github.com/justinjudefernandes/Phishing-Led-Multi-Stage-Attack-Simulation-and-End-to-End-SOC-Investigation/blob/main/README.md/">View Project</a>|
 
-## Tools
+## What I learned...
 
-### Microsoft Security Stack
+
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Defender%20XDR-B71C1C?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-1B5E20?&style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -23,3 +23,14 @@ To develop practical skills in enterprise security operations by leveraging the 
     <img src="https://img.shields.io/badge/-Microsoft%20Intune-0D47A1?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-4A148C?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
+
+## Tools
+
+### Microsoft Security Stack
+Through this Microsoft Security Stack project, I gained hands-on experience in SOC operations within a Microsoft enterprise environment, working across identity, endpoint, email, and cloud security layers.
+
+In Microsoft Sentinel, I learned log analysis, KQL-based detection, and incident investigation through data correlation. With Microsoft Defender XDR and Defender for Endpoint, I worked on endpoint detection, alert investigation, and understanding attack paths across systems.
+
+In Microsoft Defender for Office 365, I analyzed phishing attacks by inspecting email headers, links, and payloads. With Entra ID, I explored identity security, authentication risks, and conditional access concepts.
+
+Overall, this project improved my ability to analyze security incidents end-to-end, map threats to the MITRE ATT&CK framework, and think like a SOC analyst using Microsoft security tools.
