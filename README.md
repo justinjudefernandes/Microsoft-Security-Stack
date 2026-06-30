@@ -22,6 +22,14 @@ In Microsoft Defender for Office 365, I analyzed phishing attacks by inspecting 
 
 Overall, this project improved my ability to analyze security incidents end-to-end, map threats to the MITRE ATT&CK framework, and think like a SOC analyst using Microsoft security tools.
 
+## Skill Set
+- Microsoft Sentinel (SIEM) – Log ingestion, correlation rules, analytics queries, incident management
+- Microsoft Defender XDR – Cross-domain threat detection and response
+- Microsoft Defender for Endpoint – Endpoint detection, investigation, and response (EDR)
+- Microsoft Defender for Office 365 – Email threat protection and phishing analysis
+- Microsoft Entra ID (Azure AD) – Identity monitoring, conditional access concepts, authentication security
+- Microsoft Intune – Endpoint management and device compliance concepts
+
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Defender%20XDR-B71C1C?&style=for-the-badge&logo=microsoft&logoColor=white" />
