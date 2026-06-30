@@ -30,7 +30,7 @@ Overall, this project improved my ability to analyze security incidents end-to-e
 - Microsoft Entra ID (Azure AD) – Identity monitoring, conditional access concepts, authentication security
 - Microsoft Intune – Endpoint management and device compliance concepts
 
-## Tools
+## 🧰 Tools
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Defender%20XDR-B71C1C?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-1B5E20?&style=for-the-badge&logo=microsoft&logoColor=white" />
